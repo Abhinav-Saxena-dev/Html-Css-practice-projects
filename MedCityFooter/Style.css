@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.footer{
+    display: flex;
+    padding: 12px;
+    background-color: rgb(8, 8, 32);
+    justify-content: space-around;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.774);
+    height:50vh;
+}
+.footer div{
+    padding: 50px;
+}
+.tableHead{
+      color: white;
+}
+.td{
+   padding: 5px;
+}
+td a{
+    color: rgba(128, 128, 128, 0.288);
+}
+
+a{
+    text-decoration: none;
+}
+.make{
+    color: cyan;
+}
+.make .fas{
+    font-size: 10px;
+    font-weight: light;
+}
+.box3{
+    background: rgb(255, 255, 255);
+    color: black;
+    border: none;
+    border-radius: 10px;
+}
+.box1{
+    line-height:26px;
+    
+}
+.direct{
+    display: inline;
+    color: rgb(0, 177, 177);
+}
+.direct .fas{
+    font-size: 10px;
+}
